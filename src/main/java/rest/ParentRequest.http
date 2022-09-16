@@ -13,3 +13,6 @@ Accept: application/json
 POST http://localhost:8080/rest-snippets/api/parent
 Accept: application/json
 
+###
+GET https://edu.bugelhartmann.dk/day3_rest_2022f
+Accept: application/json
